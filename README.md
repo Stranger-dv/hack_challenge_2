@@ -5,10 +5,9 @@
 | Miguel Polanco | bravo | Venezuela |
 | Jorbi Fernandez | alfa | Venenzuela |
 
-## hack_1
-- [pull_request_alfa](https://github.com/Stranger-dv/hg_1_alfa)
-- [pull_request_bravo](https://github.com/migueltim/hg_1_bravo/)
+# Hacks Team 1
 
-## hack_2
-- [pull_request_alfa](https://github.com/Stranger-dv/hg-2-alfa/)
-- [pull_request_bravo](https://github.com/migueltim/hg-2-bravo/)
+| Name | Repo Alfa | Repo Bravo |
+| ------ | ------ | ----- |
+| Hack 1 🔥 | [PR_Alfa_h1](https://github.com/Stranger-dv/hg_1_alfa) | [PR_Bravo_h1](https://github.com/migueltim/hg_1_bravo/) |
+| Hack 2 🔥 | [PR_Alfa_h2](https://github.com/Stranger-dv/hg-2-alfa/) | [PR_Bravo_h2](https://github.com/migueltim/hg-2-bravo/) |
